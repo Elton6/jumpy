@@ -1,0 +1,18 @@
+{
+    "name": "Jumpy",
+    "description": "A sprite with path projection",
+    "dependencies": {
+        "game": "*"
+    },
+    "files": [
+        "README.md",
+        "jumpy.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "1.8.26",
+        "pxt": "7.4.27"
+    },
+    "weight": 78,
+    "icon": "https://pxt.azureedge.net/blob/098edb99d681c55d6fac97f78decd8f3aa5be051/static/libs/darts.png"
+}
