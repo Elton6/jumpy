@@ -1,6 +1,6 @@
 {
     "name": "Jumpy",
-    "description": hello"",
+    "description": "hello",
     "dependencies": {
         "game": "*"
     },
