@@ -1,6 +1,6 @@
 {
     "name": "Jumpy",
-    "description": "A sprite with path projection",
+    "description": "",
     "dependencies": {
         "game": "*"
     },
